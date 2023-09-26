@@ -1,0 +1,55 @@
+.thankyouwrapper{
+    background-color: #395078;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.icon{
+    color: #69c444;
+    height: 100px;
+    position: absolute;
+    top: -30px;
+    left: 150px;
+}
+
+.thankyoucontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 6px;
+    gap: 10px;
+    position: relative;
+}
+.container>span{
+    color: gray;
+}
+.container>h1{
+    font-size: 30px;
+    
+}
+
+.Btn{
+    background-color: #69c444;
+    border: none;
+    outline: none;
+    width: 70%;
+    border-radius: 5px;
+    padding: 8px 0px;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    box-shadow: 0 5px 5px rgba(0, 0,0,0.2);
+    cursor: pointer;
+   
+
+
+
+}

@@ -1,0 +1,200 @@
+[
+    {
+        "id": "d0a50658-dd56-4766-9834-1f6bbcaa7ac8",
+        "type": "Villa",
+        "destination": "banglore",
+        "Name": "O'Connell, Walter and Crona",
+        "Date": "2022-12-06",
+        "Rating": "Good",
+        "Price": 4712
+    },
+    {
+        "id": "4d4689e3-7dcc-4d60-b4db-e53dea1b7dcc",
+        "type": "Hotel",
+        "destination": "banglore",
+        "Name": "Ferry-McCullough",
+        "Date": "2022-12-06",
+        "Rating": "Excellent",
+        "Price": 4692
+    },
+    {
+        "id": "c3005a90-d3f8-4406-9482-94f092f6dc1e",
+        "type": "Villa",
+        "destination": "mumbai",
+        "Name": "Grady Group",
+        "Date": "2022-12-06",
+        "Rating": "Excellent",
+        "Price": 4007
+    },
+    {
+        "id": "98d4be73-5692-43c3-a24d-06c4c7162622",
+        "type": "Resort",
+        "destination": "mumbai",
+        "Name": "Kohler Group",
+        "Date": "2022-12-06",
+        "Rating": "Good",
+        "Price": 3758
+    },
+    {
+        "id": "a89cc934-5b49-4bcc-acd0-af0a0c7d8dcc",
+        "type": "Homestay",
+        "destination": "pune",
+        "Name": "O'Kon LLC",
+        "Date": "2022-12-06",
+        "Rating": "Bad",
+        "Price": 3892
+    },
+    {
+        "id": "adcb5607-17a2-418b-bf59-483b35930525",
+        "type": "Resort",
+        "destination": "mumbai",
+        "Name": "Crist and Sons",
+        "Date": "2022-12-06",
+        "Rating": "Outstanding",
+        "Price": 1237
+    },
+    {
+        "id": "e48a57e1-516f-4997-a351-6a928a1350ff",
+        "type": "Hotel",
+        "destination": "mumbai",
+        "Name": "Heller Group",
+        "Date": "2022-12-06",
+        "Rating": "Good",
+        "Price": 4953
+    },
+    {
+        "id": "1ea04332-229c-458e-822b-2e19580c1ac3",
+        "type": "Villa",
+        "destination": "mumbai",
+        "Name": "Stamm-Hammes",
+        "Date": "2022-12-06",
+        "Rating": "Outstanding",
+        "Price": 1472
+    },
+    {
+        "id": "5df5cc10-1644-4fcc-86be-a6cb9e30fad6",
+        "type": "Homestay",
+        "destination": "banglore",
+        "Name": "Runte, Nader and Rutherford",
+        "Date": "2022-12-06",
+        "Rating": "Outstanding",
+        "Price": 3647
+    },
+    {
+        "id": "025073a4-853a-4386-ac02-ea4408c97c58",
+        "type": "Resort",
+        "destination": "banglore",
+        "Name": "Senger-Hettinger",
+        "Date": "2022-12-06",
+        "Rating": "Bad",
+        "Price": 1526
+    },
+    {
+        "id": "f38822b8-b998-4d54-8b40-ff1505ad3b55",
+        "type": "Villa",
+        "destination": "pune",
+        "Name": "Kohler-Roberts",
+        "Date": "2022-12-06",
+        "Rating": "Bad",
+        "Price": 4296
+    },
+    {
+        "id": "0b9b7719-d9ef-47a9-938b-ab523ccf99c5",
+        "type": "Hotel",
+        "destination": "pune",
+        "Name": "Walsh-Feest",
+        "Date": "2022-12-06",
+        "Rating": "Outstanding",
+        "Price": 1148
+    },
+    {
+        "id": "94f21188-9cf4-4148-bbd5-5689b78759fd",
+        "type": "Resort",
+        "destination": "pune",
+        "Name": "Rowe, Lindgren and Bayer",
+        "Date": "2022-12-06",
+        "Rating": "Good",
+        "Price": 1972
+    },
+    {
+        "id": "98bfffff-bded-44e3-a8bb-7c724a2ef5ee",
+        "type": "Hotel",
+        "destination": "mumbai",
+        "Name": "Torp, Hahn and Bogan",
+        "Date": "2022-12-06",
+        "Rating": "Good",
+        "Price": 3114
+    },
+    {
+        "id": "47b912d7-e345-4c34-9d15-180efc5e4ca3",
+        "type": "Villa",
+        "destination": "pune",
+        "Name": "Hessel-Shields",
+        "Date": "2022-12-06",
+        "Rating": "Good",
+        "Price": 1951
+    },
+    {
+        "id": "70222122-059f-4128-a752-4834800d360f",
+        "type": "Homestay",
+        "destination": "mumbai",
+        "Name": "Leannon-Fay",
+        "Date": "2022-12-06",
+        "Rating": "Bad",
+        "Price": 4505
+    },
+    {
+        "id": "150e354f-9d82-41fa-ab30-9c6690585884",
+        "type": "Resort",
+        "destination": "pune",
+        "Name": "Hackett, Bins and Zieme",
+        "Date": "2022-12-07",
+        "Rating": "Outstanding",
+        "Price": 1512
+    },
+    {
+        "id": "715c9b2a-c9a8-4b05-892f-0a2e53c86b64",
+        "type": "Hotel",
+        "destination": "pune",
+        "Name": "Rogahn and Sons",
+        "Date": "2022-12-06",
+        "Rating": "Good",
+        "Price": 4869
+    },
+    {
+        "id": "6e5ffaad-58f0-4a95-9a4a-38b74d98d54d",
+        "type": "Hotel",
+        "destination": "pune",
+        "Name": "Beer LLC",
+        "Date": "2022-12-06",
+        "Rating": "Excellent",
+        "Price": 4270
+    },
+    {
+        "id": "f7d2aa56-eacd-437c-81a2-82fe57b0cd38",
+        "type": "Resort",
+        "destination": "banglore",
+        "Name": "Beatty-Altenwerth",
+        "Date": "2022-12-07",
+        "Rating": "Bad",
+        "Price": 2380
+    },
+    {
+        "id": "b4b14587-027f-42e0-b34a-cde01535228a",
+        "type": "Hotel",
+        "destination": "pune",
+        "Name": "Treutel LLC",
+        "Date": "2022-12-07",
+        "Rating": "Good",
+        "Price": 4118
+    },
+    {
+        "id": "48567591-8b22-4e29-b2fd-485acfa13027",
+        "type": "Hotel",
+        "destination": "mumbai",
+        "Name": "Doyle, Bergstrom and Berge",
+        "Date": "2022-12-07",
+        "Rating": "Bad",
+        "Price": 4037
+    }
+]

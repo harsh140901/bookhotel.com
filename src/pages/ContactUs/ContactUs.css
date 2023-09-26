@@ -1,0 +1,24 @@
+.contactUsContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+    background-color:  #395078;
+}
+
+.bookingText{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.bookingText>h1{
+    border: 3px solid  yellow ;
+    padding: 80px;
+    color: green;
+    background-color:white;
+    border-radius: 6px;
+
+}

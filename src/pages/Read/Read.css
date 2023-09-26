@@ -1,0 +1,32 @@
+/* .readContainer{
+    width: 100%;
+    max-width: 1024px;
+    margin: 80px;
+    
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    
+} */
+
+.readContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: whitesmoke;
+    flex-direction: column;
+  
+  }
+  
+  .readheading {
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+
+  .mytable{
+   background-color: blue;
+  }

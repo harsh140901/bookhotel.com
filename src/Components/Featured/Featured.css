@@ -1,0 +1,38 @@
+.featured{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 100%;
+    max-width: 1024px;
+    z-index: 1;
+}
+
+.featuredImg{
+    width: 300px;
+    object-fit: cover;
+}
+
+.featuredItem{
+    position: relative;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 250px;
+    cursor: pointer;
+}
+
+.featuredTitle{
+    position: absolute;
+    bottom: 60px;
+    left: 20px;
+}
+
+.featuredText{
+    font-size: 30px;
+    line-height: 10px;
+}
+
+.featuredSubText{
+    font-size: 20px;
+    font-weight: 400;
+}
